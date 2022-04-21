@@ -31,8 +31,7 @@ header .container{
 
 .logo{
     color: var(--vermelho);
-    font-family: var(--fonte-bat-flix);
-    font-size: 50px;
+    font-size: 25px;
     margin-left: 20px;
 }
 
